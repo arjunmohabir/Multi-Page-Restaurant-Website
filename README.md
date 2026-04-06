@@ -1,5 +1,7 @@
 # Multi-Page Restaurant Website
 
+<img src="website-preview.PNG">
+
 ## Overview
 This project is a multi-page restaurant website built using HTML. It showcases a Caribbean-style menu with multiple pages, images, and structured navigation between sections.
 
@@ -31,9 +33,6 @@ project/
 - Internal linking and navigation
 - Organizing content across multiple pages
 - Basic UI layout for a restaurant website
-
-## Screenshots
-(Add screenshots here if available)
 
 ## Notes
 This project focuses on front-end structure and layout using HTML without external frameworks or libraries.
